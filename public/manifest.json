@@ -1,0 +1,14 @@
+{
+  "name": "SkillSwap Local",
+  "description": "SkillSwap Local is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://4e70940b-a355-4b39-9811-9e1f48101872.vistara.dev",
+  "properties": {
+    "app": {
+      "name": "SkillSwap Local",
+      "description": "SkillSwap Local is a Base Mini App built with Zara.",
+      "url": "https://4e70940b-a355-4b39-9811-9e1f48101872.vistara.dev",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

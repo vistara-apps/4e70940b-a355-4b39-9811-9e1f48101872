@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "SkillSwap Local",
+    "subtitle": "Built with Zara",
+    "description": "SkillSwap Local is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://4e70940ba3554b3998119e1f48101872-2hyw-q9mj67ivl-vistara.vercel.app",
+    "splashImageUrl": "https://4e70940ba3554b3998119e1f48101872-2hyw-q9mj67ivl-vistara.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://4e70940ba3554b3998119e1f48101872-2hyw-q9mj67ivl-vistara.vercel.app/image.png",
+    "tagline": "SkillSwap Local",
+    "screenshotUrls": [
+      "https://4e70940ba3554b3998119e1f48101872-2hyw-q9mj67ivl-vistara.vercel.app/screenshot.png",
+      "https://4e70940ba3554b3998119e1f48101872-2hyw-q9mj67ivl-vistara.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://4e70940ba3554b3998119e1f48101872-2hyw-q9mj67ivl-vistara.vercel.app/api/webhook"
+  }
+}
