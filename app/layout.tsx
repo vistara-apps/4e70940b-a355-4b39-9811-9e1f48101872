@@ -3,6 +3,7 @@ import { Providers } from './providers';
 import './globals.css';
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://skillswap-local.vercel.app'),
   title: 'SkillSwap Local',
   description: 'Connect with your community for local gigs and skill-sharing.',
   openGraph: {
